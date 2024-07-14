@@ -1,3 +1,6 @@
+## HOW TO USE
+Download the model AND the file trunk.png otherwise an error will be raised. I recommend to used the [NetLogo](https://ccl.northwestern.edu/netlogo/download.shtml) software because some of the packages are not usable with the web interface.
+
 ## WHAT IS IT?
 This model simulates an ecosystem in which ladybirds, aphids, ants and honeydew interact with each other and with a tree. The ladybirds attack the aphids, the ants consume the honeydew and protect the aphids, and the aphids produce honeydew as they feed on the tree. The health of each species of agent affects its behaviour and interactions within the ecosystem. The overall aim is to explore how these interactions influence the health of the tree, the survival of the different agent species and the potential prunes harvest.
 
