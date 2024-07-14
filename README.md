@@ -1,3 +1,6 @@
+# NetLogo Project
+![Project Banner](screenshot_netlogo_sim.png)
+
 ## HOW TO USE
 Download the model AND the file trunk.png otherwise an error will be raised. I recommend to used the [NetLogo](https://ccl.northwestern.edu/netlogo/download.shtml) software because some of the packages are not usable with the web interface.
 
